@@ -33,10 +33,10 @@
   ![cap 4](./cap_4.png)
   
   - Elegimos la distribución del teclado
-   ![cap 5](./cap 5.png)
+   ![cap 5](./cap5.png)
   - -Elegimos el tipo de instalación y si actualizaremos o instalaremos sofware de terceros
-   ![cap 2](./cap 2.png)
+   ![cap 2](./cap2.png)
   - Elegimos borrar todo el disco y que se instale Ubuntu como único sistema operativo
-   ![cap `6](./cap 6.png)
+   ![cap 6](./cap6.png)
 # Referencias
   "UBUNTU". Wikipedia.Disponile en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 de marzo, 2023)
