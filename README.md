@@ -25,10 +25,16 @@
   
   ## Instalación Ubuntu
   - Al darle a "Iniciar", obtendremos esta pantalla: 
-  ¡[cap 2](cap 2.png)
+ 
   Pulsaremos en probarlo y más adelante lo instalaremos. Y elegiremos uno de los idiomas.
   
-  - 
-  
+  - Elegimos el idioma y hacemos click en "Instalar Ubuntu"
+   ¡[cap 4](./cap 4.png)
+  - Elegimos la distribución del teclado
+   ¡[cap 5](./cap 5.png)
+  - -Elegimos el tipo de instalación y si actualizaremos o instalaremos sofware de terceros
+   ¡[cap 2](./cap 2.png)
+  - Elegimos borrar todo el disco y que se instale Ubuntu como único sistema operativo
+   ¡[cap `6](./cap `6.png)
 # Referencias
   "UBUNTU". Wikipedia.Disponile en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 de marzo, 2023)
