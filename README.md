@@ -30,7 +30,7 @@
   
   - Elegimos el idioma y hacemos click en "Instalar Ubuntu"
   
-  ![cap 4](./cap 4.png)
+  ![cap 4](./cap_4.png)
   
   - Elegimos la distribución del teclado
    ![cap 5](./cap 5.png)
