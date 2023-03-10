@@ -29,7 +29,9 @@
   Pulsaremos en probarlo y más adelante lo instalaremos. Y elegiremos uno de los idiomas.
   
   - Elegimos el idioma y hacemos click en "Instalar Ubuntu"
-   ![cap 4](./cap 4.png)
+  
+  ![cap 4](./cap 4.png)
+  
   - Elegimos la distribución del teclado
    ![cap 5](./cap 5.png)
   - -Elegimos el tipo de instalación y si actualizaremos o instalaremos sofware de terceros
