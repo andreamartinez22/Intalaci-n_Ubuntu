@@ -61,11 +61,16 @@
    ![cap 5](./cap5.png)
    
   - Elegimos el tipo de instalación y si actualizaremos o instalaremos sofware de terceros
-   ![cap 2](./cap2.png)
+   ![V1](./V1.png)
    
   - Elegimos borrar todo el disco y que se instale Ubuntu como único sistema operativo
-   ![cap 6](./cap6.png)
+   ![V2](./V2.png)
    
+   - Igresamos nuestros datos personales y damos a "continuar"
+   
+   
+   - Una vez acabados todos los pasos, comenzará la instalación.
+     ![v3](./v3.png)
    
 # Referencias
   "UBUNTU". Wikipedia.Disponile en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 de marzo, 2023)
