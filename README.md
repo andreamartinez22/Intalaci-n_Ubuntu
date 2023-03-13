@@ -7,7 +7,6 @@
   ## Configuración de Virtual Box
   
   - Arrancamos VirtualBox y hacemos click en "Nueva"
-   ![inicio1](./inicio1.png)
   
   - Escribimos el nombre de la máquina virtual, en nuestro caso "ubuntu"
   ![inicio2](./inicio2.png)
@@ -20,15 +19,19 @@
    
   - Elegimos del tipo de disco duro virtual del tipo VDI
    ![inicio5](./inicio5.png)
+   
   - Le indicamos que el fichero del disco duro virtual crezca dinámicamente, a medida que necesitemos más espacio
-  - -![inicio61](./inicio61.png)
-  - 
-  - Configuramos el tamaño del disco duro virtuala 25GB, ya que es el tamaño recomendado en la instalación de Ubuntu 22.04
-   -![inicio62](./inicio62.png)
+   -![inicio61](./inicio61.png)
+  
+  - Configuramos el tamaño del disco duro virtual 25GB, ya que es el tamaño recomendado en la instalación de Ubuntu 22.04
+   ![inicio62](./inicio62.png)
    
   - Ya tenemos creada la máquina virtual, solo nos falta introducir el disco virtual del sistema operativo
+  ![inicio7](./inicio7.png)
   - Nos descargamos previamente el archivo ISO de la sitribución LInux que queremos. En nuestro caso hemos elegido la distribución en su versión 22.04
+  ![inicio8](./inicio8.png)
   - El siguiente paso es "montar" la ISO en el lector virtual de la máquina virtual. Para ello hacemos click en "Configurar y posteriormente vamos a la sección "almacenamiento"
+  ![inicio9](./inicio9.png)
   - Una vez abierto el "almacenamiento" pulsaremos donde pone vacío, justo debajo de "Controlador: IDE", pulsaremos en el disco azul de la derecha del todo y haremos click en "Seleccionar un archivo de disco". Buscaremos el archivo de Ubuntu que nos hemos descargado anteriormente.
   - Por último le damos a "Iniciar" en la máquina virtual 
   
