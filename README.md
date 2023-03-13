@@ -49,6 +49,7 @@
   
   ## Instalación Ubuntu
   - Al darle a "Iniciar", obtendremos esta pantalla: 
+   ![inicio11](./inicio11.png)
  
   Pulsaremos en probarlo y más adelante lo instalaremos. Y elegiremos uno de los idiomas.
   
