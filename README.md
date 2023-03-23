@@ -78,11 +78,19 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
 
 1. Actualizamos los indices de paquetes
 
+---
 sudo apt update
+---
 
-2. Actualizamos los paquetes instalados que tiene nuevas versiones en los repositorios:
+2. Vemos la lista de paquetes que se pueden actualizar
 
+---
+apt list --upgradable
+---
 
+3. Actualizamos los paquetes instalados que tiene nuevas versiones en los repositorios:
+
+---
 sudo apt upgrade
 ---
    
