@@ -72,6 +72,19 @@
    
    - Una vez acabados todos los pasos, comenzará la instalación.
      ![v3](./v3.png)
+     
+## Actualización del sistema 
+Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome-Terminal) y escribiriamos los siguientes comandos
+
+1. Actualizamos los indices de paquetes
+
+sudo apt update
+
+2. Actualizamos los paquetes instalados que tiene nuevas versiones en los repositorios:
+
+
+sudo apt upgrade
+---
    
 # Referencias
   "UBUNTU". Wikipedia.Disponile en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 de marzo, 2023)
