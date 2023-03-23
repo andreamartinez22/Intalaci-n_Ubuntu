@@ -106,5 +106,14 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
    sudo apt upgrade
    ---
    
+   ## Actualizamos la interfaz
+   
+   Abrimos la aplicación "Sofware updater"
+   
+   Vemos com la aplicación comprueba las actualizaciones
+   La aplicación nos informa de las actualizaciones pregunta si queremos actualizar
+   
+   Actualizaremos y después reiniciamos
+   
 # Referencias
   "UBUNTU". Wikipedia.Disponile en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 de marzo, 2023)
