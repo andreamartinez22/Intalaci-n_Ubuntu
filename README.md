@@ -77,6 +77,7 @@
 Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome-Terminal) y escribiriamos los siguientes comandos
 
 1. Actualizamos los indices de paquetes
+![U9](https://user-images.githubusercontent.com/122264667/227209554-661ce69e-2562-4bb6-a6af-59683818acae.png)
 
 
    ---
@@ -84,6 +85,8 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
    ---
 
 2. Vemos la lista de paquetes que se pueden actualizar
+![U10](https://user-images.githubusercontent.com/122264667/227209599-3ec63381-4e31-49ea-936d-c5b3a6400446.png)
+
 
 
 
@@ -92,6 +95,8 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
    ---
 
 3. Actualizamos los paquetes instalados que tiene nuevas versiones en los repositorios:
+ ![U11 sudo apt upgrade](https://user-images.githubusercontent.com/122264667/227209630-9bad8f40-debd-47c7-a375-76e6bb40374f.png)
+
 
 
    ---
