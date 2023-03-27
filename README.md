@@ -84,9 +84,9 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
 ![U9](https://user-images.githubusercontent.com/122264667/227209554-661ce69e-2562-4bb6-a6af-59683818acae.png)
 
 2. Vemos la lista de paquetes que se pueden actualizar
- ---
-  apt list --upgradable
- ---
+  ---
+   apt list --upgradable
+  ---
 
 ![U10](https://user-images.githubusercontent.com/122264667/227209599-3ec63381-4e31-49ea-936d-c5b3a6400446.png)
   
@@ -94,7 +94,7 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
 3. Actualizamos los paquetes instalados que tiene nuevas versiones en los repositorios:
 
    ---
-   sudo apt upgrade
+    sudo apt upgrade
    ---
  
  ![U11 sudo apt upgrade](https://user-images.githubusercontent.com/122264667/227209630-9bad8f40-debd-47c7-a375-76e6bb40374f.png)
@@ -107,6 +107,19 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
    Vemos com la aplicación comprueba las actualizaciones
    La aplicación nos informa de las actualizaciones pregunta si queremos actualizar
    Actualizaremos y después reiniciamos
+   
+   # Instalación Sofware 
+   
+   Vamos a instalar la herramienta Blender 3D a través de los repositorios de Ubuntu
+   - Para ello, debemos poner el siguiente código en la terminal 
+   ---
+    sudo apt-get install blender
+   ---
+   
+   ## Mediante la herramienta synaptic
+   
+   En primer lugar debemos comprovar que tenemos la herramienta instalada, podemos usar la siguiente linea de comandos:
+   
    
    
 # Referencias
