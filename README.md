@@ -88,6 +88,7 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
 2. Vemos la lista de paquetes que se pueden actualizar
  ---
  apt list --upgradable
+ 
  ---
 
 ![U10](https://user-images.githubusercontent.com/122264667/227209599-3ec63381-4e31-49ea-936d-c5b3a6400446.png)
@@ -111,8 +112,8 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
    
    Vemos com la aplicación comprueba las actualizaciones
    La aplicación nos informa de las actualizaciones pregunta si queremos actualizar
-   
    Actualizaremos y después reiniciamos
+   
    
 # Referencias
   "UBUNTU". Wikipedia.Disponile en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 de marzo, 2023)
