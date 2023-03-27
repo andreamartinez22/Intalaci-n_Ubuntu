@@ -77,9 +77,9 @@
 Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome-Terminal) y escribiriamos los siguientes comandos
 
 1. Actualizamos los indices de paquetes
-   ---
-    sudo apt update
-   ---
+  ---
+   sudo apt update
+  ---
 
 ![U9](https://user-images.githubusercontent.com/122264667/227209554-661ce69e-2562-4bb6-a6af-59683818acae.png)
 
@@ -93,9 +93,9 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
 
 3. Actualizamos los paquetes instalados que tiene nuevas versiones en los repositorios:
 
-   ---
-    sudo apt upgrade
-   ---
+  ---
+   sudo apt upgrade
+  ---
  
  ![U11 sudo apt upgrade](https://user-images.githubusercontent.com/122264667/227209630-9bad8f40-debd-47c7-a375-76e6bb40374f.png)
 
@@ -115,12 +115,16 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
    ---
     sudo apt-get install blender
    ---
-   
+   ![U15](https://user-images.githubusercontent.com/122264667/227882727-85c20b90-6651-49ff-b833-b691f210720b.png)
+
+    
+    
    ## Mediante la herramienta synaptic
    
    En primer lugar debemos comprovar que tenemos la herramienta instalada, podemos usar la siguiente linea de comandos:
    
-   
+  
+
    
 # Referencias
   "UBUNTU". Wikipedia.Disponile en: https://es.wikipedia.org/wiki/Ubuntu (Accedido: 6 de marzo, 2023)
