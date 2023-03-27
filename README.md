@@ -117,6 +117,10 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
    ---
    ![U15](https://user-images.githubusercontent.com/122264667/227882727-85c20b90-6651-49ff-b833-b691f210720b.png)
 
+   Una vez ejecutado ya la tendremos en nuestras aplicaciones
+   
+   ![U16](https://user-images.githubusercontent.com/122264667/227883433-99ebc7e1-daa8-4c0e-bc44-646d07735499.png)
+
     
     
    ## Mediante la herramienta synaptic
