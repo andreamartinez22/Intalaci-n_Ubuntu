@@ -82,7 +82,7 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
 
 
    ---
-   sudo apt update
+    sudo apt update
    ---
 
 2. Vemos la lista de paquetes que se pueden actualizar
