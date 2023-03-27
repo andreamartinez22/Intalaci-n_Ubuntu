@@ -80,32 +80,31 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
   ---
    sudo apt update
   ---
-
 ![U9](https://user-images.githubusercontent.com/122264667/227209554-661ce69e-2562-4bb6-a6af-59683818acae.png)
 
 2. Vemos la lista de paquetes que se pueden actualizar
   ---
    apt list --upgradable
   ---
-
 ![U10](https://user-images.githubusercontent.com/122264667/227209599-3ec63381-4e31-49ea-936d-c5b3a6400446.png)
   
 
 3. Actualizamos los paquetes instalados que tiene nuevas versiones en los repositorios:
-
   ---
    sudo apt upgrade
   ---
- 
  ![U11 sudo apt upgrade](https://user-images.githubusercontent.com/122264667/227209630-9bad8f40-debd-47c7-a375-76e6bb40374f.png)
 
    
    ## Actualizamos la interfaz
    
    Abrimos la aplicación "Sofware updater"
+   ![U12 si](https://user-images.githubusercontent.com/122264667/227885138-45987e86-2072-4170-98d9-4d1a5b9f25dc.png)
+
    
-   Vemos com la aplicación comprueba las actualizaciones
+
    La aplicación nos informa de las actualizaciones pregunta si queremos actualizar
+   ![u13](https://user-images.githubusercontent.com/122264667/227884868-965e0a28-6ee6-4ca4-91e2-1cf5f482df42.png)
    Actualizaremos y después reiniciamos
    
    # Instalación Sofware 
