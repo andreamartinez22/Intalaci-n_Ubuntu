@@ -104,13 +104,16 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
    
    ## Actualizamos la interfaz
    
-   Abrimos la aplicación "Sofware updater"
+   - Abrimos la aplicación "Sofware updater"
+   
    ![U17](https://user-images.githubusercontent.com/122264667/227885727-b45ca83d-cae1-4f89-95fb-6aab16376ee6.png)
 
-   La aplicación nos informa de las actualizaciones pregunta si queremos actualizar
+   - La aplicación nos informa de las actualizaciones pregunta si queremos actualizar
+   
    ![U12 si](https://user-images.githubusercontent.com/122264667/227885138-45987e86-2072-4170-98d9-4d1a5b9f25dc.png)
    
-   Actualizaremos y después reiniciamos
+   - Actualizaremos y después reiniciamos
+  
    ![u13](https://user-images.githubusercontent.com/122264667/227884868-965e0a28-6ee6-4ca4-91e2-1cf5f482df42.png)
    
    # Instalación Sofware 
