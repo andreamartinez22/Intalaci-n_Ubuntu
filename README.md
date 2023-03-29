@@ -83,9 +83,9 @@ Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome
 
 - Actualizamos los indices de paquetes
 
-   ---
+  ---
    sudo apt update
-   ---
+  ---
    
 ![U9](https://user-images.githubusercontent.com/122264667/227209554-661ce69e-2562-4bb6-a6af-59683818acae.png)
 
