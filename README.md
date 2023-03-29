@@ -42,7 +42,8 @@
   
   - El siguiente paso es "montar" la ISO en el lector virtual de la máquina virtual. Para ello hacemos click en "Configurar y posteriormente vamos a la sección "almacenamiento". Una vez abierto el "almacenamiento" pulsaremos donde pone vacío, justo debajo de "Controlador: IDE", pulsaremos en el disco azul de la derecha del todo y haremos click en "Seleccionar un archivo de disco". Buscaremos el archivo de Ubuntu que nos hemos descargado anteriormente.
   
-  ![1](./1.png)
+![SI](https://user-images.githubusercontent.com/122264667/228452786-66998f39-ece0-4fb7-874b-e1fb703056c0.png)
+
 
   - Por último le damos a "Iniciar" en la máquina virtual 
   
