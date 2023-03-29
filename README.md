@@ -60,27 +60,33 @@
   
   
   - Elegimos la distribución del teclado
+  
    ![cap 5](./cap5.png)
    
   - Elegimos el tipo de instalación y si actualizaremos o instalaremos sofware de terceros
+  
    ![V1](./V1.png)
    
   - Elegimos borrar todo el disco y que se instale Ubuntu como único sistema operativo
+  
    ![V2](./V2.png)
    
    - Igresamos nuestros datos personales y damos a "continuar"
    
    
    - Una vez acabados todos los pasos, comenzará la instalación.
+   
      ![v3](./v3.png)
      
 ## Actualización del sistema 
 Para actualizar el sistema desde linea de comandos abririamos una terminal(Gnome-Terminal) y escribiriamos los siguientes comandos
 
 - Actualizamos los indices de paquetes
+
    ---
     sudo apt update
    ---
+   
 ![U9](https://user-images.githubusercontent.com/122264667/227209554-661ce69e-2562-4bb6-a6af-59683818acae.png)
 
 - Vemos la lista de paquetes que se pueden actualizar
